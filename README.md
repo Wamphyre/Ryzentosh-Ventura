@@ -2,7 +2,7 @@
 
 | **Component**    | **Model**                                  |
 | ---------------- | ------------------------------------------ |
-| OpenCore         | 0.9.4 |
+| OpenCore         | 0.9.5 |
 | CPU              | AMD Ryzen 7 2700X      |
 | Motherboard      | ASUS TUF B450M Pro Gaming |
 | RAM              | Kingston HyperFury Black 16GB 3200GHz DDR4 |
