@@ -14,6 +14,7 @@
 - Big Sur
 - Monterey
 - Ventura
+- Sonoma
 
 ## WARNING!
 **Don't forget to generate your own SMBIOS!!!!**
