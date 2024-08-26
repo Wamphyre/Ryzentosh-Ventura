@@ -2,7 +2,7 @@
 
 | **Component**    | **Model**                                  |
 | ---------------- | ------------------------------------------ |
-| OpenCore         | 0.9.5 |
+| OpenCore         | 1.0 |
 | CPU              | AMD Ryzen 7 2700X      |
 | Motherboard      | ASUS TUF B450M Pro Gaming |
 | RAM              | Kingston HyperFury Black 16GB 3200GHz DDR4 |
@@ -14,6 +14,7 @@
 - Big Sur
 - Monterey
 - Ventura
+- Sonoma
 
 ## WARNING!
 **Don't forget to generate your own SMBIOS!!!!**
