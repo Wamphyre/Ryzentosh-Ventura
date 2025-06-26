@@ -15,6 +15,7 @@
 - Monterey
 - Ventura
 - Sonoma
+- Sequoia (Latest)
 
 ## WARNING!
 **Don't forget to generate your own SMBIOS!!!!**
